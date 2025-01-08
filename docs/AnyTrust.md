@@ -16,6 +16,8 @@ The fundamental tradeoff between Rollup and AnyTrust is decentralization vs. tra
 
 
 
+
+
 The key changes from Rollup is in where and how the chain's data is stored.
 
 To add transactions to a Rollup chain, the transaction data must be posted on the L1 as calldata. This directly leverages the security assumptions of Ethereum itself to guarantee that the chain's data is available to any party, which, in turn, means anyone can actively validate the chain. This property, combined with the fact and any one honest validator can force correct execution of the chain, means that rollup chains are trustless.
