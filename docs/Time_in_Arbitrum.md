@@ -1,8 +1,3 @@
----
-id: Time_in_Arbitrum
-title: Block Numbers and Time In Arbitrum
-sidebar_label: Block Numbers and Time
----
 
 As in Ethereum, Arbitrum clients submit transactions they want to see happen, and the system (usually) executes those transactions at some later time.
 In Arbitrum Rollup, clients submit transactions by posting messages to the Ethereum chain, either directly or through an aggregator, or on a Sequencer chain, though a Sequencer.
