@@ -1,8 +1,3 @@
----
-id: ArbOS
-title: ArbOS: The Arbitrum Operating System
-sidebar_label: ArbOS
----
 
 # ArbOS
 
